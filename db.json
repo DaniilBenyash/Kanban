@@ -1,0 +1,40 @@
+{
+    "kanbanData": [
+        {
+            "category": "In Progress",
+            "id": 1,
+            "tasks": [
+                {
+                    "task": "I'd like to finish this app",
+                    "tags": [{ "tag": "Programming", "id": 1 }],
+                    "id": 1
+                },
+                {
+                    "task": "I'd like to finish this app",
+                    "tags": [{ "tag": "Programming", "id": 2 }],
+                    "id": 2
+                },
+                {
+                    "task": "I'd like to finish this app",
+                    "tags": [{ "tag": "Programming", "id": 3 }],
+                    "id": 3
+                },
+                {
+                    "task": "I'd like to finish this app",
+                    "tags": [{ "tag": "Programming", "id": 4 }],
+                    "id": 4
+                },
+                {
+                    "task": "I'd like to finish this app",
+                    "tags": [{ "tag": "Programming", "id": 5 }],
+                    "id": 5
+                },
+                {
+                    "task": "I'd like to finish this app",
+                    "tags": [{ "tag": "Programming", "id": 6 }],
+                    "id": 6
+                }
+            ]
+        }
+    ]
+}
